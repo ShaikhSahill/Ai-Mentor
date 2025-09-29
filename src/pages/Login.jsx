@@ -152,7 +152,7 @@ const Login = () => {
                         </button>
                     </form>
 
-                    <div className="mt-6 space-y-3" >
+                    <div className="mt-6 space-y-3">
                         <button 
                             onClick={navigate('/ladingpage')}   
                             type="button"
