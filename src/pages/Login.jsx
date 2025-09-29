@@ -73,7 +73,7 @@ const Login = () => {
     const handleLogin = (e) => {
         e.preventDefault();
         
-        navigate('/ladingpage');
+        navigate('/dashboard');
     };
 
     return (
